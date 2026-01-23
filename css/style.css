@@ -286,7 +286,7 @@ figure figcaption {
 @media screen and (max-width: 768px) {
   #colorlib-main {
     width: 100%;
-    padding: 0 0em;
+    padding: 0 0px !important;
   }
 }
 
